@@ -1,0 +1,8 @@
+winget install JanDeDobbeleer.OhMyPosh -s winget
+
+Install-Module -Name Terminal-Icons -Repository PSGallery
+
+///you can upgrade or change your version depending on the package
+Install-Module -Name PSReadLine -RequiredVersion 2.2.4-beta1 -AllowPrerelease
+
+Install-Module z -AllowClobber
