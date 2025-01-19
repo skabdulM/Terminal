@@ -1,0 +1,185 @@
+{
+  "cSpell.userWords": ["ecommerce"],
+  "editor.mouseWheelZoom": true,
+  "workbench.editor.wrapTabs": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "rapidapi.terminalLink.enabled": false,
+  "todohighlight.isEnable": true,
+  "todohighlight.include": [
+    "**/*.js",
+    "**/*.jsx",
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.html",
+    "**/*.php",
+    "**/*.css",
+    "**/*.scss"
+  ],
+  "editor.stickyScroll.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "todo-tree.highlights.defaultHighlight": {
+    "icon": "alert",
+    "type": "text-and-comment",
+    "foreground": "#000000",
+    "background": "#ffffff",
+    "opacity": 50,
+    "iconColour": "#0000FF",
+    "gutterIcon": true
+  },
+  "todo-tree.highlights.customHighlight": {
+    "TODO": {
+      "icon": "check",
+      "foreground": "#000000",
+      "background": "#ffffff",
+      "iconColour": "#ffffff"
+    },
+    "NOTE": {
+      "icon": "note",
+      "foreground": "#ffffff",
+      "background": "#808080",
+      "iconColour": "#808080"
+    },
+    "COMMENT": {
+      "icon": "note",
+      "foreground": "#ffffff",
+      "background": "#808080",
+      "iconColour": "#808080"
+    },
+    "FIXME": {
+      "foreground": "#000000",
+      "background": "#FFFF00",
+      "iconColour": "#FFFF00"
+    },
+    "BUG": {
+      "foreground": "#000000",
+      "background": "#ff0000",
+      "iconColour": "#ff0000"
+    },
+    "[ ]": {
+      "icon": "comment",
+      "foreground": "#000000",
+      "background": "#ffffff",
+      "iconColour": "#FFFF00"
+    },
+    "[x]": {
+      "icon": "check",
+      "foreground": "#fff",
+      "background": "#00ff00",
+      "iconColour": "#00ff00"
+    },
+    "TEST": {
+      "icon": "alert",
+      "foreground": "#fff",
+      "background": "#23395d",
+      "iconColour": "#23395d"
+    }
+  },
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "NOTE",
+    "COMMENT",
+    "[ ]",
+    "[x]",
+    "TEST"
+  ],
+  "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS).*(\\n\\s*//\\s{2,}.*)*",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.autohide": true,
+  "editor.minimap.size": "fit",
+  // "editor.fontFamily": "'JetBrainsMono Nerd Font Mono','DejaVuSansM Nerd Font Mono','CaskaydiaCove Nerd Font Mono', 'monospace', monospace",
+  "terminal.integrated.defaultProfile.linux": "fish",
+  "prisma.showPrismaDataPlatformNotification": false,
+  "editor.fontWeight": "normal",
+  "git.openRepositoryInParentFolders": "never",
+  // "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font Mono','DejaVuSansM Nerd Font Mono',\"CasKaydiaCove NF\",\"CasKaydiaCove Nerd Font Mono\",\"Consolas\",\"Fira Code\", monospace",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "gitlens.codeLens.enabled": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "symbols.hidesExplorerArrows": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "gitlens.views.commitDetails.files.layout": "list",
+  "[dart]": {
+    "editor.formatOnSave": false,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "workbench.startupEditor": "none",
+  "explorer.confirmDelete": false,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "explorer.confirmPasteNative": false,
+  "gitlens.ai.model": "openai:o1-preview",
+  "workbench.editor.editorActionsLocation": "titleBar",
+  "editor.minimap.maxColumn": 90,
+  "window.newWindowDimensions": "inherit",
+  "files.trimTrailingWhitespace": true,
+  "diffEditor.renderSideBySide": false,
+  "editor.snippetSuggestions": "top",
+  "window.nativeFullScreen": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "workbench.editor.showTabs": "multiple",
+  // Silence the Noise
+  //for file path below tab
+  "breadcrumbs.enabled": false,
+  "editor.hover.delay": 300,
+  "scm.diffDecorations": "all",
+  "editor.matchBrackets": "always",
+  "git.decorations.enabled": false,
+  "editor.renderLineHighlight": "all",
+  "editor.occurrencesHighlight": "singleFile",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/abdul/OneDrive/Documents/vscode/custom-vscode.css",
+    "file:///C:/Users/abdul/OneDrive/Documents/vscode/vscode-script.js"
+  ],
+  // Typography
+  "editor.fontFamily": "'Geist Mono', 'JetBrains Mono', 'Fira Code'",
+  "editor.suggestFontSize": 12,
+  "editor.suggestLineHeight": 20,
+  "terminal.integrated.lineHeight": 1.5,
+  "terminal.integrated.fontSize": 14,
+  "workbench.iconTheme": "vscode-icons",
+  "material-icon-theme.files.color": "#42a5f5",
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.fontLigatures": true,
+  "editor.cursorBlinking": "expand",
+  "terminal.integrated.cursorBlinking": true,
+  "editor.formatOnSave": true,
+  "gitlens.views.scm.grouped.views": {
+    "commits": false,
+    "branches": false,
+    "remotes": false,
+    "stashes": false,
+    "tags": false,
+    "worktrees": false,
+    "contributors": false,
+    "repositories": false,
+    "searchAndCompare": false,
+    "launchpad": false
+  },
+  "workbench.colorTheme": "Horizon Italic",
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
